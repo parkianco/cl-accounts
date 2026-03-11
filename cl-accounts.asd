@@ -13,7 +13,7 @@
 (asdf:defsystem #:cl-accounts
   :name "cl-accounts"
   :version "1.0.0"
-  :author "CLPIC Contributors"
+  :author "Parkian Company LLC"
   :license "BSD-3-Clause"
   :description "Account abstraction and state management for Ethereum-compatible blockchains"
   :depends-on ()
